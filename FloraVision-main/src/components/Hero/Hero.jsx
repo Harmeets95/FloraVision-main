@@ -87,12 +87,12 @@ const Hero = () => (
     alt="Aglaonema plant"
     className="
       absolute
-      top-[-78%]
+      top-[-130px]
       left-1/2
       -translate-x-1/2
       w-[115%]
       max-w-none
-      z-50
+      z-20
       pointer-events-none
     "
   />
